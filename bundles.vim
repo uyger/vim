@@ -18,3 +18,6 @@ filetype plugin indent on	" required
 
 " molokai
 colorscheme molokai
+
+" nerdtree
+map <F2> :NERDTreeToggle<CR>
