@@ -15,6 +15,7 @@ set ignorecase
 set smartcase
 
 " editor settings
+set guifont=Courier_New:h10
 set history=1000
 set nocompatible
 set nofoldenable	" disable folding
